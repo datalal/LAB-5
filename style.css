@@ -1,0 +1,17 @@
+.converterBox, .convertResult{
+
+width: 300px;
+background-color: grey;
+border: 3px black;
+font-family: monospace;
+padding-left: 5px;
+
+
+}
+
+.dogPic{
+
+  height: 300px;
+  width: 300px;
+
+}
